@@ -1,0 +1,24 @@
+# 🔢 Core Data Libraries
+numpy>=1.23.0
+pandas>=1.5.0
+
+# 📊 Data Visualization
+matplotlib>=3.5.0
+
+# ⚙️ Preprocessing & Scaling
+scikit-learn>=1.1.0
+
+# 🤖 Deep Learning (compatible with TF 2.x ecosystem)
+tensorflow>=2.11.0
+
+# 📈 Stock Data
+yfinance>=0.2.30
+
+# 📓 Jupyter Support
+notebook>=7.0.0
+
+# ⏳ Optional: Progress bars
+tqdm>=4.64.0
+
+# 🌐 Streamlit App Support (optional if using Streamlit UI)
+streamlit>=1.30.0
